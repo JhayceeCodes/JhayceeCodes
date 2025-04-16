@@ -2,7 +2,6 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on web app projects
-- 📫 How to reach me via Instagram @jhayceecodes
 
 <!---
 JhayceeCodes/JhayceeCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
