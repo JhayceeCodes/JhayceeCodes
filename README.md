@@ -54,7 +54,7 @@ Building systems that make digital interaction smoother, smarter, and safer — 
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| 🧩 [**Notion Rides**](https://github.com/team-notion/team-notion) | A ride-booking web app with user authentication, notifications, and real-time interactions including reservation and payment. | Django, DRF, PostgreSQL |
+| 🧩 [**Notion Rides**](https://github.com/team-notion/team-notion/tree/master/backend/django) | A ride-booking web app with user authentication, notifications, and real-time interactions including reservation and payment. | Django, DRF, PostgreSQL |
 <!-- | 🧠 [**AI-Powered Image Processor**](https://github.com/yourusername/ai-image-processor) | A backend that integrates AI APIs to process and classify images. | Python, FastAPI, TensorFlow |
 | 💬 [**Meetify Backend**](https://github.com/yourusername/meetify-backend) | Real-time communication backend inspired by Google Meet. | Django Channels, Redis, WebRTC |
 | 🧱 [**Portfolio API**](https://github.com/yourusername/portfolio-api) | A personal API for managing portfolio data dynamically. | Django REST Framework, SQLite | -->
