@@ -1,6 +1,6 @@
 
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Jethro Ayegbe</h1>
+<h1 align="center">Hi, I'm Jethro Ayegbe</h1>
 <h3 align="center">Backend Software Engineer | ALX Learner | Building Scalable, Secure, and High-Performance Systems</h3>
 
 <!-- Profile Banner - TODO -->
@@ -10,7 +10,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 <p align="justify">
 I’m a passionate <b>Backend Software Engineer</b> currently learning at <b>ALX Africa</b>.  
@@ -18,15 +18,15 @@ My journey into software engineering began with a strong curiosity about how sys
 I’m driven by a passion to <b>build performance-driven, reliable, and secure backend infrastructures</b> that empower seamless user experiences.  
 </p>
 
-🎯 **My Mission:**  
+ **My Mission:**  
 To craft scalable and resilient backend systems that leverage cutting-edge technologies — from **AI integrations** and **image processing** to **real-time communication backends** like Google Meet.
 
-💬 **What Inspires Me:**  
+ **What Inspires Me:**  
 Building systems that make digital interaction smoother, smarter, and safer — technology that truly serves people.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -41,7 +41,7 @@ Building systems that make digital interaction smoother, smarter, and safer — 
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - 🔹 **Advanced Django & REST Framework**
 - 🔹 **WebSocket and Live Communication (Django Channels, Socket.io)**
@@ -50,18 +50,18 @@ Building systems that make digital interaction smoother, smarter, and safer — 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| 🧩 [**Notion Rides API**](https://github.com/JhayceeCodes/NotionRides/tree/master/backend/django) | A ride-booking web app with user authentication, notifications, and real-time interactions including reservation and payment. | Django, DRF, PostgreSQL |
+| [**Notion Rides API**](https://github.com/JhayceeCodes/NotionRides/tree/master/backend/django) | A ride-booking web app with user authentication, notifications, and real-time interactions including reservation and payment. | Django, DRF, PostgreSQL |
 <!-- | 🧠 [**AI-Powered Image Processor**](https://github.com/yourusername/ai-image-processor) | A backend that integrates AI APIs to process and classify images. | Python, FastAPI, TensorFlow |
 | 💬 [**Meetify Backend**](https://github.com/yourusername/meetify-backend) | Real-time communication backend inspired by Google Meet. | Django Channels, Redis, WebRTC |
 | 🧱 [**Portfolio API**](https://github.com/yourusername/portfolio-api) | A personal API for managing portfolio data dynamically. | Django REST Framework, SQLite | -->
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JhayceeCodes&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -74,7 +74,7 @@ Building systems that make digital interaction smoother, smarter, and safer — 
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
