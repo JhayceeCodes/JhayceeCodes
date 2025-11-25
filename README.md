@@ -85,11 +85,6 @@ Building systems that make digital interaction smoother, smarter, and safer — 
 
 ---
 
-<p align="center">
-  ✨ <i>“Code to solve, learn to grow, and build to empower.”</i> ✨  
-</p>
-
----
 
 <!-- Footer -->
 <p align="center">
