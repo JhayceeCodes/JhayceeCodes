@@ -1,92 +1,115 @@
+<div align="center">
 
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Jethro Ayegbe</h1>
-<h3 align="center">Backend Software Engineer | ALX Learner | Building Scalable, Secure, and High-Performance Systems</h3>
+# Jethro Ayegbe
 
-<!-- Profile Banner - TODO -->
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.gif" alt="Jethro Ayegbe Banner" width="100%"/>
-</p>
+**Backend Software Engineer**
 
----
+*Most systems don't fail at the surface — they fail at the core.*
+*I design APIs and backend services built to handle scale, pressure, and change.*
 
-## About Me
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/JhayceeCodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jethroayegbe/)
 
-<p align="justify">
-I’m a passionate <b>Backend Software Engineer</b> currently learning at <b>ALX Africa</b>.  
-My journey into software engineering began with a strong curiosity about how systems communicate and scale efficiently.  
-I’m driven by a passion to <b>build performance-driven, reliable, and secure backend infrastructures</b> that empower seamless user experiences.  
-</p>
-
- **My Mission:**  
-To craft scalable and resilient backend systems that leverage cutting-edge technologies — from **AI integrations** and **image processing** to **real-time communication backends** like Google Meet.
-
- **What Inspires Me:**  
-Building systems that make digital interaction smoother, smarter, and safer — technology that truly serves people.
+</div>
 
 ---
 
-##  Tech Stack
+## `$ whoami`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+Backend engineer focused on building **reliable, scalable, and secure systems**. I work closest to the core — designing APIs, modelling data flows, and engineering the infrastructure that keeps applications performant under real-world conditions.
+
+Clean architecture isn't an aesthetic preference — it's a resilience strategy.
 
 ---
 
-##  Currently Learning
+## `$ tech-stack --list`
 
-- 🔹 **Advanced Django & REST Framework**
-- 🔹 **WebSocket and Live Communication (Django Channels, Socket.io)**
-- 🔹 **AI Integration for Backend Systems**
-- 🔹 **Cloud Infrastructure & DevOps (AWS, Docker, CI/CD)**
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-##  Featured Projects
+**Frameworks & Libraries**
 
-| Project | Description | Stack |
-|----------|--------------|-------|
-| [**Notion Rides API**](https://github.com/JhayceeCodes/NotionRides/tree/master/backend/django) | A ride-booking web app with user authentication, notifications, and real-time interactions including reservation and payment. | Django, DRF, PostgreSQL |
-<!-- | 🧠 [**AI-Powered Image Processor**](https://github.com/yourusername/ai-image-processor) | A backend that integrates AI APIs to process and classify images. | Python, FastAPI, TensorFlow |
-| 💬 [**Meetify Backend**](https://github.com/yourusername/meetify-backend) | Real-time communication backend inspired by Google Meet. | Django Channels, Redis, WebRTC |
-| 🧱 [**Portfolio API**](https://github.com/yourusername/portfolio-api) | A personal API for managing portfolio data dynamically. | Django REST Framework, SQLite | -->
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
----
+**Databases**
 
-##  GitHub Stats
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JhayceeCodes&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JhayceeCodes&theme=radical" alt="GitHub Streak" />
-</p>
+**Infrastructure & Tools**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhayceeCodes&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ---
 
-##  Let’s Connect
+## `$ ls ./projects`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://yourportfolio.com/](https://sites.google.com/view/jethroayegbe" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-</p>
+### [ImageProAPI](https://github.com/JhayceeCodes/ImageProAPI) · [Live Demo ↗](https://imageproapi.up.railway.app/)
+> Scalable image processing API built for high-throughput asynchronous transformations.
+
+- REST endpoints for image upload, resizing, compression, format conversion, and filtering
+- Asynchronous task processing via **Celery + Redis** to keep the API responsive under load
+- Cloud storage integration with **AWS S3**
+- Fully containerized with **Docker** for consistent deployment
 
 ---
 
+### [StoryTime API](https://github.com/JhayceeCodes/StoryTimeAPI)
+> Secure backend powering a multi-author storytelling platform.
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
-</p>
+- JWT authentication with **token rotation and blacklisting** to prevent replay attacks
+- Role-based access control (**RBAC**) for granular permission management
+- Email verification flow and secure author account management
+- Performance-optimized with **caching strategies** validated under load
+
+---
+
+### [Notion Rides](https://github.com/JhayceeCodes/NotionRides/tree/master/backend/django)
+> Backend system for a full-featured vehicle rental platform.
+
+- Handles account creation, authentication, and role-based access for owners and customers
+- Car listings, availability tracking, and reservation management
+- Integrated **payment workflows** and automated email notifications
+- Designed for a single-owner, multi-customer operational model
+
+---
+
+## `$ currently --learning`
+
+```
+▶  Advanced Django  ............  scalable APIs & production architecture
+▶  Backend System Design  ......  distributed systems, trade-off analysis
+▶  Database Optimization  ......  indexing, query planning, performance tuning
+▶  Golang  .....................  concurrent systems & high-performance services
+```
+
+---
+
+## `$ goals --long-term`
+
+- Ship production-grade backend systems that survive real-world scale
+- Contribute meaningfully to impactful open-source infrastructure
+- Master system design, distributed systems, and database internals
+- Grow through hard problems, not just comfortable ones
+
+---
+
+<div align="center">
+
+*Open to backend engineering roles. Let's build something that lasts.*
+
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/JhayceeCodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jethroayegbe/)
+
+</div>
