@@ -75,7 +75,7 @@ Clean architecture isn't an aesthetic preference — it's a resilience strategy.
 
 ---
 
-### [Notion Rides](https://github.com/JhayceeCodes/NotionRides/tree/master/backend/django)
+### [Notion Rides API](https://github.com/JhayceeCodes/NotionRides/tree/master/backend/django)
 > Backend system for a full-featured vehicle rental platform.
 
 - Handles account creation, authentication, and role-based access for owners and customers
