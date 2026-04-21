@@ -55,7 +55,7 @@ Clean architecture isn't an aesthetic preference — it's a resilience strategy.
 
 ## `$ ls ./projects`
 
-### [ImageProAPI](https://github.com/JhayceeCodes/ImageProAPI) · [Live Demo ↗](https://imageproapi.up.railway.app/)
+### [ImageProAPI](https://github.com/JhayceeCodes/ImageProAPI)
 > Scalable image processing API built for high-throughput asynchronous transformations.
 
 - REST endpoints for image upload, resizing, compression, format conversion, and filtering
